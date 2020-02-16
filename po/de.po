@@ -23,6 +23,7 @@ msgstr ""
 
 #: pdfarranger/metadata.py:30
 msgid "Title"
+#error
 msgstr "Titel"
 
 #: pdfarranger/metadata.py:31
